@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reeserj
-- 👀 I’m interested in Yearn.Finance
+- 👀 I’m interested in Yearn.Finance/Coordinape
 - 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on Financials for Yearn, Web Design for Yearn
+- 💞️ I like data viz, and discord... Well not really discord #Slacker, but go where the people are right?
 - 📫 How to reach me https://gov.yearn.finance/u/reeserj/summary
 
 <!---
